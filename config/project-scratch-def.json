@@ -1,0 +1,17 @@
+{
+  "orgName": "My Scratch Org",
+  "edition": "Developer",
+  "features": ["Communities", "MultiCurrency"],
+  "settings": {
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
+
+
+
+  
